@@ -2,8 +2,16 @@
     "name": "ktoblzcheck",
     "version": "0.1.0",
     "dependencies": {
+        "ffi": ">0.0.0",
+        "ref": ">0.0.0",
+        "ref-array": ">0.0.0",
+        "ref-struct": ">0.0.0",
+        "ref-strict": ">0.0.0"
     },
     "devDependencies": {
         "coffee-script": "1.4.x"
+    },
+    "directories": {
+        "lib": "./lib"
     }
 }
