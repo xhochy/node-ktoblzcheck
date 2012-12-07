@@ -1,6 +1,6 @@
 {
     "name": "ktoblzcheck",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Uwe L. Korn <uwelk@xhochy.com>",
     "keywords": ["ktoblzcheck", "german", "bank"],
     "description": "binding for ktoblzcheck to check german account numbers/BLZ",
