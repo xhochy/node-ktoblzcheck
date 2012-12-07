@@ -1,6 +1,9 @@
 {
     "name": "ktoblzcheck",
     "version": "0.1.0",
+    "author": "Uwe L. Korn <uwelk@xhochy.com>",
+    "keywords": ["ktoblzcheck", "german", "bank"],
+    "description": "binding for ktoblzcheck to check german account numbers/BLZ",
     "dependencies": {
         "ffi": ">0.0.0",
         "ref": ">0.0.0",
@@ -13,5 +16,20 @@
     },
     "directories": {
         "lib": "./lib"
+    },
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/xhochy/node-ktoblzcheck.git"
+    },
+    "bugs": {
+        "url": "https://github.com/xhochy/node-ktoblzcheck/issues"
+    },
+    "homepage": "https://github.com/xhochy/node-ktoblzcheck",
+    "engines": {
+        "node": ">=0.6.0" 
+    },
+    "license": {
+        "type": "MIT",
+        "url": "https://github.com/xhochy/node-ktoblzcheck/blob/master/LICENSE.txt"
     }
 }
